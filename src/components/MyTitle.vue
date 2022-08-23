@@ -13,22 +13,23 @@ export default {
 <style scoped>
 
 .box{
-    background-color: black;
+    background-color: #0f0e17;
     width: 600px;
     margin: auto;
-    border-radius: 13px
+    border-radius: 25px;
+    padding: 5px
 }
 
 .box:hover{
-    background-color: red;
+    background-color: #ff8906;
 }
 
 h1{
-    color:red;
+    color:#ff8906;
 }
 
 h1:hover{
-    color:black
+    color:#0f0e17
 }
 
 </style>
